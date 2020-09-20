@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816626502584",
+    "firebase_url": "https://geoinfo-96c8e.firebaseio.com",
+    "project_id": "geoinfo-96c8e",
+    "storage_bucket": "geoinfo-96c8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816626502584:android:84633c5f44f642bc301d4d",
+        "android_client_info": {
+          "package_name": "com.example.GeoApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816626502584-7cog7j629u6t0hfubol38kapo4v9nb1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.GeoApp",
+            "certificate_hash": "e31c9a7c6fd2318521677f82ff414394e225e224"
+          }
+        },
+        {
+          "client_id": "816626502584-uu6ma4avbq0drd23pc6jgaaskrtub1rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuya0oWIWwv-zWHh0Epr5mQb1A5Pl1-hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816626502584-uu6ma4avbq0drd23pc6jgaaskrtub1rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
